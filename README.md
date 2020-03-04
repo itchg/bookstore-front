@@ -2,28 +2,28 @@
 图书馆管理系统前端，vue+antd+echarts
 
 ### 图书馆统计信息
-![alt 图书馆统计信息](https://github.com/itchg/bookstore-front/blob/master/thumbnails/statistic.png)
+![图书馆统计信息](https://github.com/itchg/bookstore-front/blob/master/thumbnails/statistic.png)
 
 <br/>
 
 ### 书库管理
 #### 图书列表
-![alt 图书列表](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.png)
+![图书列表](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8.png)
 
 <br/>
 
 #### 图书详情
-![alt 图书详情](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E8%AF%A6%E6%83%85.png)
+![图书详情](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E8%AF%A6%E6%83%85.png)
 
 <br/>
 
 #### 图书修改
-![alt 图书修改](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E4%BF%AE%E6%94%B9.png)
+![图书修改](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E4%BF%AE%E6%94%B9.png)
 
 <br/>
 
 #### 图书删除
-![alt 图书删除](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E5%88%A0%E9%99%A4.png)
+![图书删除](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E5%9B%BE%E4%B9%A6%E5%88%A0%E9%99%A4.png)
 
 <br/>
 <br/>
