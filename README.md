@@ -2,7 +2,7 @@
 图书馆管理系统前端，vue+antd+echarts
 
 ### 图书馆统计信息
-![图书馆统计信息](https://github.com/itchg/bookstore-front/blob/master/thumbnails/statistic.png)
+![图书馆统计信息](https://github.com/itchg/bookstore-front/blob/master/thumbnails/%E7%BB%9F%E8%AE%A1%E4%BF%A1%E6%81%AF.png)
 
 <br/>
 
