@@ -22,3 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# bookstore-front
+图书馆管理系统前端，vue+antd+echarts
