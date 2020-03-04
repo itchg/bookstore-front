@@ -1,0 +1,11 @@
+.query-conditions {
+    border-bottom: 1px lightgrey solid;
+    padding: 5px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+.data-display {
+    padding: 0px;
+    margin: 0px;
+}
